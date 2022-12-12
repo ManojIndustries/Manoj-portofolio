@@ -1,3 +1,6 @@
 .head-bg{
   background-color: #0099ff;
 }
+.bg-shadow{
+  box-shadow: 10px 10px 20px black;
+}
