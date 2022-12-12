@@ -117,7 +117,7 @@ const Skills = () => {
                 </div>
                 <div className='grid md:grid-cols-2 gap-3 py-10 gap-y-16 relative'>
                     {items.map((item) => (
-                        <div className='mx-20 px-10 py-10 bg-white rounded-xl bg-shadow' data-aos="flip-right">
+                        <div className='mx-5 md:mx-20 px-10 py-10 bg-white rounded-xl bg-shadow' data-aos="flip-right">
                             <h1 className='text-lg font-bold mb-3'>{item.skillname}</h1>
                             <p className='text-gray-700 font-bold text-lg'>{item.description}</p>
                             <p >{item.symbol}</p>
