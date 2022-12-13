@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/Manoj-portofolio/static/css/main.a11c2d5f.css",
-    "main.js": "/Manoj-portofolio/static/js/main.5de944d8.js",
+    "main.css": "/Manoj-portofolio/static/css/main.d0800964.css",
+    "main.js": "/Manoj-portofolio/static/js/main.f0194eab.js",
     "static/js/787.1ef76bce.chunk.js": "/Manoj-portofolio/static/js/787.1ef76bce.chunk.js",
     "static/media/profile_pic-removebg-preview.png": "/Manoj-portofolio/static/media/profile_pic-removebg-preview.976e36e8d045809f7f7e.png",
+    "static/media/icons8-twitter.gif": "/Manoj-portofolio/static/media/icons8-twitter.df8c24446c8893426e3e.gif",
+    "static/media/icons8-linkedin-circled.gif": "/Manoj-portofolio/static/media/icons8-linkedin-circled.bf64550e93226869b21f.gif",
+    "static/media/icons8-instagram.gif": "/Manoj-portofolio/static/media/icons8-instagram.9977e36852e5e2b42b2d.gif",
     "static/media/download-removebg-preview.svg": "/Manoj-portofolio/static/media/download-removebg-preview.9b2d47d3a5b2dcc958f583498851b34a.svg",
     "static/media/reactjs.svg": "/Manoj-portofolio/static/media/reactjs.4f5edfd9d4cf10ffe2e9eca504906d42.svg",
     "static/media/python.svg": "/Manoj-portofolio/static/media/python.378fc46bb72ad272f844c580a9027d1f.svg",
@@ -13,12 +16,14 @@
     "static/media/CSS.svg": "/Manoj-portofolio/static/media/CSS.81d683e31d3425954a78ba45967de709.svg",
     "index.html": "/Manoj-portofolio/index.html",
     "static/media/JS.svg": "/Manoj-portofolio/static/media/JS.eece8213d5284e6258d6e637e2018213.svg",
-    "main.a11c2d5f.css.map": "/Manoj-portofolio/static/css/main.a11c2d5f.css.map",
-    "main.5de944d8.js.map": "/Manoj-portofolio/static/js/main.5de944d8.js.map",
+    "static/media/open-burger.svg": "/Manoj-portofolio/static/media/open-burger.1197bea9b4df42a5c5ce1566cc70f928.svg",
+    "static/media/close.svg": "/Manoj-portofolio/static/media/close.6157b2f9cef61f43cfb9afb27dae1ef8.svg",
+    "main.d0800964.css.map": "/Manoj-portofolio/static/css/main.d0800964.css.map",
+    "main.f0194eab.js.map": "/Manoj-portofolio/static/js/main.f0194eab.js.map",
     "787.1ef76bce.chunk.js.map": "/Manoj-portofolio/static/js/787.1ef76bce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a11c2d5f.css",
-    "static/js/main.5de944d8.js"
+    "static/css/main.d0800964.css",
+    "static/js/main.f0194eab.js"
   ]
 }
