@@ -8,8 +8,8 @@ const Header = () => {
     <>
       <div>
 
-        <header className='head-bg'>
-          <div>
+        <header className='head-bg' id='home'>
+          <div className='relative'>
             <Navbar />
           </div>
           <div className='flex flex-col justify-around p-10 md:flex-row'>

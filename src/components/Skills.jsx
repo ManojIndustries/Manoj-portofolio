@@ -110,7 +110,7 @@ const Skills = () => {
 
     return (
         <>
-            <section className='head-bg'>
+            <section className='head-bg' id='skills'>
 
                 <div>
                     <h1 className='text-center text-6xl font-bold py-5'>Skills</h1>
