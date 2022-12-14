@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Manoj-portofolio/static/css/main.d0800964.css",
-    "main.js": "/Manoj-portofolio/static/js/main.f0194eab.js",
+    "main.css": "/Manoj-portofolio/static/css/main.b6522820.css",
+    "main.js": "/Manoj-portofolio/static/js/main.9ee861f5.js",
     "static/js/787.1ef76bce.chunk.js": "/Manoj-portofolio/static/js/787.1ef76bce.chunk.js",
     "static/media/profile_pic-removebg-preview.png": "/Manoj-portofolio/static/media/profile_pic-removebg-preview.976e36e8d045809f7f7e.png",
     "static/media/icons8-twitter.gif": "/Manoj-portofolio/static/media/icons8-twitter.df8c24446c8893426e3e.gif",
@@ -18,12 +18,12 @@
     "static/media/JS.svg": "/Manoj-portofolio/static/media/JS.eece8213d5284e6258d6e637e2018213.svg",
     "static/media/open-burger.svg": "/Manoj-portofolio/static/media/open-burger.1197bea9b4df42a5c5ce1566cc70f928.svg",
     "static/media/close.svg": "/Manoj-portofolio/static/media/close.6157b2f9cef61f43cfb9afb27dae1ef8.svg",
-    "main.d0800964.css.map": "/Manoj-portofolio/static/css/main.d0800964.css.map",
-    "main.f0194eab.js.map": "/Manoj-portofolio/static/js/main.f0194eab.js.map",
+    "main.b6522820.css.map": "/Manoj-portofolio/static/css/main.b6522820.css.map",
+    "main.9ee861f5.js.map": "/Manoj-portofolio/static/js/main.9ee861f5.js.map",
     "787.1ef76bce.chunk.js.map": "/Manoj-portofolio/static/js/787.1ef76bce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0800964.css",
-    "static/js/main.f0194eab.js"
+    "static/css/main.b6522820.css",
+    "static/js/main.9ee861f5.js"
   ]
 }
